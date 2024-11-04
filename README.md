@@ -8,7 +8,9 @@ requests
 base64
 threading
 ```
-
+### Furhat Remote API
+more information on https://docs.furhat.io/remote-api/
+possible to write all conversation control in python script 
 ### Camera Script Installation
 
 To set up the camera class, install the required dependencies for OpenCV (cv2), follow these steps:
