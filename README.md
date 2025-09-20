@@ -45,3 +45,8 @@ This will display the version of OpenCV installed, confirming that the installat
 4. In the same direcotry as furhat_cooks.py, run a separate python process ```python -m http.server 8000``` This serves TTS wav files.
 5. Run ```python furhat_cooks.py```
 
+## Attribution
+Created for **Digital Futures 2025**. **Anna Deichler**, **Siyang Wang** and **Daniel Marta**.
+
+
+
